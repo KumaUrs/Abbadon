@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author rfjax
+ *
+ */
+module TextAdventureAbaddon {
+}
